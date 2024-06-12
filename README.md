@@ -46,3 +46,10 @@
 - https://cloudcapsule.io
 - https://tinywow.com
 - https://cyberchef.io
+- https://inventory.raw.pm/tools.html
+- https://privacy.sexy
+- https://unroll.me
+- https://www.nomoreransom.org
+- https://purpleops.app
+- https://taiga.io
+- https://github.com/A-poc/BlueTeam-Tools
