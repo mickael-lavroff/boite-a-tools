@@ -53,3 +53,4 @@
 - https://purpleops.app
 - https://taiga.io
 - https://github.com/A-poc/BlueTeam-Tools
+- https://endoflife.date
